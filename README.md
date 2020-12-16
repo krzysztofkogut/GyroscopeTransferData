@@ -1,6 +1,6 @@
 # GyroscopeTransferData
 
-iOS application to transfer gyro data using TCP. 
+iOS application to transfer gyro data using TCP. Application is written in Swift 5.
 
 ## Installation
 
