@@ -1,0 +1,6 @@
+framework module Pods_GyroscopeTransferData {
+  umbrella header "Pods-GyroscopeTransferData-umbrella.h"
+
+  export *
+  module * { export * }
+}
