@@ -4,9 +4,12 @@ iOS application to transfer gyro data using TCP.
 
 ## Installation
 
-Project uses the [CocoaPods](https://cocoapods.org). Install the dependencies in your project.
+Project uses the [CocoaPods](https://cocoapods.org). 
 
-Type: 
+Frameworks used in project:
+- [SwiftSocket](https://github.com/swiftsocket/SwiftSocket)
+
+To install the dependencies in your project type: 
 
 ```bash
 pod install
